@@ -18,8 +18,7 @@ To develop an interactive Sales Performance Dashboard in Microsoft Excel that an
 - Which city has the best sales performance?
 - What are the key sales trends and performance insights?
   
-- Dashboard Interaction
-- < a href="https://github.com/pratiklondhe2004/Sales-performance-dashboard/blob/main/dashboard%20screenshot.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/pratiklondhe2004/Sales-performance-dashboard/blob/main/dashboard%20screenshot.png">View Dashboard</a>
 
  ## Process
 - Collected sales data from the dataset.
@@ -35,3 +34,16 @@ To develop an interactive Sales Performance Dashboard in Microsoft Excel that an
 
   ## Dashboard
  ![Dashboard screenshot](https://github.com/pratiklondhe2004/Sales-performance-dashboard/blob/main/dashboard%20screenshot.png)
+
+ ## Project insight
+- Identified the top-performing sales executives based on total sales generated.
+- Analyzed target achievement percentages to measure employee performance.
+- Detected employees who were farthest from achieving their sales targets.
+- Compared sales performance across different cities using interactive filters.
+- Observed variations in sales performance among sales executives.
+- Enabled quick identification of high-performing and low-performing regions.
+- Provided a clear visual representation of sales trends and target completion.
+- Supported data-driven decision-making through interactive dashboards and reports.
+
+## Final conclusion
+The Sales Performance Dashboard successfully transforms raw sales data into meaningful business insights through interactive visualizations and analysis. By utilizing Microsoft Excel features such as Pivot Tables, Pivot Charts, and Slicers, the dashboard enables efficient monitoring of sales performance, target achievement, and employee productivity. The project helps identify top-performing and underperforming sales executives, compare city-wise performance, and support data-driven decision-making. This project demonstrates practical skills in data analysis, dashboard development, data visualization, and business reporting using Excel.
