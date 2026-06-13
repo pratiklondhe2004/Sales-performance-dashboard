@@ -17,7 +17,7 @@ To develop an interactive Sales Performance Dashboard in Microsoft Excel that an
 - How does sales performance vary across different cities?
 - Which city has the best sales performance?
 - What are the key sales trends and performance insights?
-- Dahboard Interaction < a href="https://github.com/pratiklondhe2004/Sales-performance-dashboard/blob/main/dashboard%20screenshot.png"> View dashboard </a>
+- Dahboard Interaction < a href="https://github.com/pratiklondhe2004/Sales-performance-dashboard/blob/main/dashboard%20screenshot.png">View_dashboard</a>
 
  ## Process
 - Collected sales data from the dataset.
