@@ -34,4 +34,4 @@ To develop an interactive Sales Performance Dashboard in Microsoft Excel that an
 - Presented the results through visual reports.
 
   ## Dashboard
- 
+ ![Dashboard screenshot](https://github.com/pratiklondhe2004/Sales-performance-dashboard/blob/main/dashboard%20screenshot.png)
